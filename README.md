@@ -4,3 +4,4 @@ I developed a machine learning model to predict loan default risk using three da
 🚀 Live Demo
 Try the deployed Streamlit app here:
 👉 Loan Default Risk Predictor: https://loan-default-risk-predictor-app.streamlit.app/
+Also, here is the link to my colab notebook where the model was trained: https://colab.research.google.com/drive/1uPUVDialJxlY6IMvoz1Q1wWg6xvSTarY?usp=sharing
